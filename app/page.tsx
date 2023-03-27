@@ -1,7 +1,9 @@
 
 function HomePage() {
   return (
-    <div>HomePage</div>
+    <div>
+        <h1>ChatGPT Massanger</h1>
+    </div>
   )
 }
 
