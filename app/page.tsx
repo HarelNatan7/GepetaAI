@@ -12,9 +12,9 @@ function HomePage() {
                         <h2>Examples</h2>
                     </div>
                     <div className="space-y-2">
-                        <p className="infoText">Explain Something to me</p>
-                        <p className="infoText">What is the difference between a dog and a cat?</p>
-                        <p className="infoText">What is the color of the sun?</p>
+                        <p className="infoText">Explain quantum computing in simple terms</p>
+                        <p className="infoText">Got any creative ideas for a 10 year old birthday?</p>
+                        <p className="infoText">How do I make an HTTP request in Javascript?</p>
                         
                     </div>
                 </div>
@@ -24,9 +24,9 @@ function HomePage() {
                         <h2>Capabilities</h2>
                     </div>
                     <div className="space-y-2">
-                        <p className="infoText">Change the GepetaAI Modek to use</p>
-                        <p className="infoText">Messages are stored in the Firebase&apos;s Fireastore</p>
-                        <p className="infoText">Hot toast notification when GepetaAI is thinking!</p>
+                        <p className="infoText">Remembers what user said earlier in the conversation</p>
+                        <p className="infoText">Allows user to provide follow-up corrections</p>
+                        <p className="infoText">Trained to decline inappropriate requests</p>
                         
                     </div>
                 </div>
